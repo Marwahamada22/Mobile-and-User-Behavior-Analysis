@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/a39aaa34-48e9-4262-a603-4b77e6eff927)
+
+
+
 # Mobile-and-User-Behavior-Analysis
 Mobile and User Behavior Analysis - Unlocking Insights into Smartphone Usage
 
