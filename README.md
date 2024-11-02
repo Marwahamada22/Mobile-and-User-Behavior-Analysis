@@ -3,7 +3,7 @@ Mobile and User Behavior Analysis - Unlocking Insights into Smartphone Usage
 
 As someone deeply fascinated by data-driven insights and user behavior, I embarked on an exciting project to analyze a dataset focused on mobile device usage. This project allowed me to explore various facets of smartphone interaction, offering insights that could be valuable for product development, digital well-being, and behavioral analysis. I’m excited to share the details of my work in this post!
 
-# Project Overview: In this project, I analyzed a rich dataset on mobile usage patterns, which includes information on users’ daily app usage time, screen-on duration, battery consumption, and data usage. With a sample of 700 users, each record is classified into one of five user behavior categories, ranging from light to heavy usage. This project was designed to understand how people interact with their devices, examining factors like app engagement and battery management.
+ Project Overview:. In this project, I analyzed a rich dataset on mobile usage patterns, which includes information on users’ daily app usage time, screen-on duration, battery consumption, and data usage. With a sample of 700 users, each record is classified into one of five user behavior categories, ranging from light to heavy usage. This project was designed to understand how people interact with their devices, examining factors like app engagement and battery management 
 
 
 # Tools and Technologies Used:
